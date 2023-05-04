@@ -7,9 +7,9 @@ struct Book
 };
 int main()
 {
-	struct Book b1 = {"C语言程序设计", 55};
-	printf("书名:%s\n", b1.name);
-	printf("价格:%d\n", b1.price);
+	struct Book b1 = {"C脫茂脩脭鲁脤脨貌脡猫录脝", 55};//this is books chinese name
+	printf("脢茅脙没:%s\n", b1.name);
+	printf("录脹赂帽:%d\n", b1.price);
 	return 0;
 
 }
